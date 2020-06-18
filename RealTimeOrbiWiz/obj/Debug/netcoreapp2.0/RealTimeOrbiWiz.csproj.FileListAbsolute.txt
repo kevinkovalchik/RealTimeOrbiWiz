@@ -1,0 +1,10 @@
+C:\Users\Kovalchik\source\repos\RealTimeOrbiWiz\RealTimeOrbiWiz\bin\Debug\netcoreapp2.0\RealTimeOrbiWiz.deps.json
+C:\Users\Kovalchik\source\repos\RealTimeOrbiWiz\RealTimeOrbiWiz\bin\Debug\netcoreapp2.0\RealTimeOrbiWiz.runtimeconfig.json
+C:\Users\Kovalchik\source\repos\RealTimeOrbiWiz\RealTimeOrbiWiz\bin\Debug\netcoreapp2.0\RealTimeOrbiWiz.runtimeconfig.dev.json
+C:\Users\Kovalchik\source\repos\RealTimeOrbiWiz\RealTimeOrbiWiz\bin\Debug\netcoreapp2.0\RealTimeOrbiWiz.dll
+C:\Users\Kovalchik\source\repos\RealTimeOrbiWiz\RealTimeOrbiWiz\bin\Debug\netcoreapp2.0\RealTimeOrbiWiz.pdb
+C:\Users\Kovalchik\source\repos\RealTimeOrbiWiz\RealTimeOrbiWiz\obj\Debug\netcoreapp2.0\RealTimeOrbiWiz.AssemblyInfoInputs.cache
+C:\Users\Kovalchik\source\repos\RealTimeOrbiWiz\RealTimeOrbiWiz\obj\Debug\netcoreapp2.0\RealTimeOrbiWiz.AssemblyInfo.cs
+C:\Users\Kovalchik\source\repos\RealTimeOrbiWiz\RealTimeOrbiWiz\obj\Debug\netcoreapp2.0\RealTimeOrbiWiz.dll
+C:\Users\Kovalchik\source\repos\RealTimeOrbiWiz\RealTimeOrbiWiz\obj\Debug\netcoreapp2.0\RealTimeOrbiWiz.pdb
+C:\Users\Kovalchik\source\repos\RealTimeOrbiWiz\RealTimeOrbiWiz\obj\Debug\netcoreapp2.0\RealTimeOrbiWiz.csprojAssemblyReference.cache

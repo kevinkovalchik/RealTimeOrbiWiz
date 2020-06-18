@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Security.Permissions" Version="4.6.0" />
+    <PackageReference Include="ThermoFisher.CommonCore.BackgroundSubtraction" Version="5.0.0.7" />
+    <PackageReference Include="ThermoFisher.CommonCore.Data" Version="5.0.0.7" />
+    <PackageReference Include="ThermoFisher.CommonCore.MassPrecisionEstimator" Version="5.0.0.7" />
+    <PackageReference Include="ThermoFisher.CommonCore.RawFileReader" Version="5.0.0.7" />
+  </ItemGroup>
+
+</Project>

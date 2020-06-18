@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Kovalchik\\source\\repos\\RealTimeOrbiWiz\\RealTimeOrbiWiz\\RealTimeOrbiWiz.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Kovalchik\\source\\repos\\RealTimeOrbiWiz\\RealTimeOrbiWiz\\RealTimeOrbiWiz.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kovalchik\\source\\repos\\RealTimeOrbiWiz\\RealTimeOrbiWiz\\RealTimeOrbiWiz.csproj",
+        "projectName": "RealTimeOrbiWiz",
+        "projectPath": "C:\\Users\\Kovalchik\\source\\repos\\RealTimeOrbiWiz\\RealTimeOrbiWiz\\RealTimeOrbiWiz.csproj",
+        "packagesPath": "C:\\Users\\Kovalchik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kovalchik\\source\\repos\\RealTimeOrbiWiz\\RealTimeOrbiWiz\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kovalchik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Kovalchik\\NuGet": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "System.Security.Permissions": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "ThermoFisher.CommonCore.BackgroundSubtraction": {
+              "target": "Package",
+              "version": "[5.0.0.7, )"
+            },
+            "ThermoFisher.CommonCore.Data": {
+              "target": "Package",
+              "version": "[5.0.0.7, )"
+            },
+            "ThermoFisher.CommonCore.MassPrecisionEstimator": {
+              "target": "Package",
+              "version": "[5.0.0.7, )"
+            },
+            "ThermoFisher.CommonCore.RawFileReader": {
+              "target": "Package",
+              "version": "[5.0.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

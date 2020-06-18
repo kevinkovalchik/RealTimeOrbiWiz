@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RealTimeOrbiWiz": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\"
+    }
+  }
+}
